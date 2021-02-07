@@ -15,3 +15,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "blooming-thicket-06299" #Must be unique in Heroku
           heroku_email: "edwardrose1234@gmail.com"
+          remote_branch: master

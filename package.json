@@ -10,7 +10,7 @@
     "eslint": "eslint './**/*.{js,jsx}'",
     "build": "webpack --mode production",
     "cypress:open": "cypress open",
-    "cypress:run" : "cypress run --spec \"cypress/integration/pokemon_app.js\""
+    "cypress:run" : "cypress run"
   },
   "repository": {
     "type": "git",

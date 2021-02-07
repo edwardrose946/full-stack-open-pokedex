@@ -16,3 +16,4 @@ jobs:
           heroku_app_name: "blooming-thicket-06299" #Must be unique in Heroku
           heroku_email: "edwardrose1234@gmail.com"
           remote_branch: master
+          healthCheck: "https://blooming-thicket-06299.herokuapp.com/health"

@@ -17,3 +17,4 @@ jobs:
           heroku_email: "edwardrose1234@gmail.com"
           remote_branch: master
           healthCheck: "https://blooming-thicket-06299.herokuapp.com/health"
+          rollbackonhealthcheckfailed: true

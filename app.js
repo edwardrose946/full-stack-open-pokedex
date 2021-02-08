@@ -20,4 +20,6 @@ app.listen(PORT, () => {
   console.log('server started on port 5000')
   // eslint-disable-next-line no-console
   console.log('Edward Rose Branch')
+  // eslint-disable-next-line no-console
+  console.log('Should not run on push but on merge')
 })
